@@ -1,10 +1,9 @@
-Art. 44.
+Art. 44. 
 Incremento del fondo per l’acquisto di autoveicoli a basse emissioni di Co2 g/km
 
 1. Il Fondo di cui all’articolo 1, comma 1041, della legge 30 dicembre 2018, n. 145, è incrementato di 100 milioni di euro per l’anno 2020 e di 200 milioni di euro per l’anno 2021. Agli oneri derivanti dal presente comma, si provvede ai sensi dell’articolo 265.
 
-1 -bis . Fermo restando quanto previsto dall’articolo 1, comma 1031, della legge 30 dicembre 2018, n. 145, alle persone fisiche e giuridiche che acquistano in Italia dal
-1° agosto 2020 al 31 dicembre 2020, anche in locazione finanziaria, un veicolo nuovo di fabbrica sono riconosciuti i seguenti contributi:
+1 -bis . Fermo restando quanto previsto dall’articolo 1, comma 1031, della legge 30 dicembre 2018, n. 145, alle persone fisiche e giuridiche che acquistano in Italia dal 1° agosto 2020 al 31 dicembre 2020, anche in locazione finanziaria, un veicolo nuovo di fabbrica sono riconosciuti i seguenti contributi:
 a) per l’acquisto di un veicolo con contestuale rottamazione di un veicolo immatricolato in data anteriore al 1° gennaio 2010 o che nel periodo di vigenza dell’agevolazione superi i dieci anni di anzianità dalla data di immatricolazione, il contributo statale è parametrato al numero di grammi (g) di anidride carbonica (CO2) emessi per chilometro (km) secondo gli importi di cui alla seguente tabella ed è riconosciuto a condizione che sia praticato dal venditore uno sconto pari ad almeno 2.000 euro:
 CO2 g/km    Contributo (euro)
 0-20        2.000
@@ -33,5 +32,4 @@ b) abbiano emissioni di CO2 comprese tra 61 e 110 g/km, siano omologati in una c
 il Ministro dello sviluppo economico, da emanare entro quindici giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono individuate le
 modalità per assicurare il rispetto del limite di spesa di cui al presente comma.
 
-1 -novies . Agli oneri derivanti dall’attuazione delle disposizioni dei commi da 1 -bis a 1 -octies del presente articolo, pari a 50 milioni di euro per l’anno 2020, si provvede mediante corrispondente riduzione del Fondo di cui all’articolo 1, comma 200, della legge 23 dicembre 2014, n. 190, come rifinanziato dall’articolo 265, comma 5, del
-presente decreto.
+1 -novies . Agli oneri derivanti dall’attuazione delle disposizioni dei commi da 1 -bis a 1 -octies del presente articolo, pari a 50 milioni di euro per l’anno 2020, si provvede mediante corrispondente riduzione del Fondo di cui all’articolo 1, comma 200, della legge 23 dicembre 2014, n. 190, come rifinanziato dall’articolo 265, comma 5, del presente decreto.
