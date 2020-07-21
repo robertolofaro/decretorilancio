@@ -1,14 +1,13 @@
-TITOLO VII
+TITOLO VII 
 DISPOSIZIONI PER LA TUTELA DEL RISPARMIO NEL SETTORE CREDITIZIO
 
-Capo I
-GARANZIA DELLO S TATO SU PASSIVITÀ DI NUOVA EMISSIONE
+Capo I 
+GARANZIA DELLO STATO SU PASSIVITÀ DI NUOVA EMISSIONE
 
-Art. 165.
+Art. 165. 
 Garanzia dello Stato su passività di nuova emissione
 
-1. Al fine di evitare o porre rimedio a una grave perturbazione dell’economia e preservare la stabilità finanziaria, ai sensi dell’articolo 18 del decreto legislativo
-16 novembre 2015, n. 180 e dell’articolo 18, paragrafo 4, lettera d) , del regolamento (UE) n.806/2014 del Parlamento europeo e del Consiglio del 15 luglio 2014, il Ministero dell’economia e delle finanze è autorizzato, nei sei mesi successivi all’entrata in vigore del presente decreto, a concedere la garanzia dello Stato su passività delle banche italiane in conformità a quanto previsto dal presente capo I, nel rispetto della disciplina europea in materia di aiuti di Stato, fino a un valore nominale di 19 miliardi di euro.
+1. Al fine di evitare o porre rimedio a una grave perturbazione dell’economia e preservare la stabilità finanziaria, ai sensi dell’articolo 18 del decreto legislativo 16 novembre 2015, n. 180 e dell’articolo 18, paragrafo 4, lettera d) , del regolamento (UE) n.806/2014 del Parlamento europeo e del Consiglio del 15 luglio 2014, il Ministero dell’economia e delle finanze è autorizzato, nei sei mesi successivi all’entrata in vigore del presente decreto, a concedere la garanzia dello Stato su passività delle banche italiane in conformità a quanto previsto dal presente capo I, nel rispetto della disciplina europea in materia di aiuti di Stato, fino a un valore nominale di 19 miliardi di euro.
 
 2. Per banche italiane si intendono le banche aventi sede legale in Italia.
 
@@ -16,12 +15,10 @@ Garanzia dello Stato su passività di nuova emissione
 
 4. Il Ministro dell’economia e delle finanze può altresì rilasciare, entro sei mesi dall’entrata in vigore del presente decreto, fermi restando i limiti di cui comma 1, la garanzia statale per integrare il valore di realizzo del collaterale stanziato da banche italiane a garanzia di finanziamenti erogati dalla Banca d’Italia per fronteggiare gravi crisi di liquidità (erogazione di liquidità di emergenza–ELA), in conformità agli schemi previsti dalla Banca centrale europea.
 
-5. Il Ministro dell’economia e delle finanze può con proprio decreto estendere il periodo di cui al comma 1 e al comma 4, fino a un massimo di ulteriori sei mesi previa
-approvazione da parte della Commissione europea.
+5. Il Ministro dell’economia e delle finanze può con proprio decreto estendere il periodo di cui al comma 1 e al comma 4, fino a un massimo di ulteriori sei mesi previa approvazione da parte della Commissione europea.
 
 6. Nel presente capo I per Autorità competente si intende la Banca d’Italia o la Banca centrale europea secondo le modalità e nei casi previsti dal Regolamento (UE) del Consiglio n.1024/2013 del 15 ottobre 2013.
 
 7. È istituito nello stato di previsione del Ministero dell’economia e delle finanze, un fondo a copertura della garanzia concessa ai sensi del presente capo con una dotazione di 30 milioni di euro per l’anno 2020. Per la gestione del fondo è autorizzata l’apertura di apposito conto corrente di tesoreria centrale.
 
-8. I corrispettivi delle garanzie concesse sono versati all’entrata del bilancio dello Stato per essere riassegnati al Fondo di cui al comma 7. Le risorse del Fondo non più
-necessarie alle finalità di cui al comma 1, quantificate con decreto del Ministro dell’economia e delle finanze, sono versate all’entrata del bilancio dello Stato.
+8. I corrispettivi delle garanzie concesse sono versati all’entrata del bilancio dello Stato per essere riassegnati al Fondo di cui al comma 7. Le risorse del Fondo non più necessarie alle finalità di cui al comma 1, quantificate con decreto del Ministro dell’economia e delle finanze, sono versate all’entrata del bilancio dello Stato.
