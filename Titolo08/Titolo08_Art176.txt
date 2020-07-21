@@ -1,10 +1,10 @@
-TITOLO VIII
+TITOLO VIII 
 MISURE DI SETTORE
 
-Capo I
+Capo I 
 MISURE PER IL TURISMO E LA CULTURA
 
-Art. 176.
+Art. 176. 
 Tax credit vacanze
 
 1. Per il periodo d’imposta 2020 è riconosciuto un credito in favore dei nuclei familiari con ISEE in corso di validità, ordinario o corrente ai sensi dell’articolo 9 del decreto del Presidente del Consiglio dei ministri 5 dicembre 2013 n.159, non superiore a 40.000 euro, utilizzabile, dal 1° luglio al 31 dicembre 2020, per il pagamento di servizi offerti in ambito nazionale dalle imprese turistico ricettive, nonché dagli agriturismo e dai bed & breakfast in possesso dei titoli prescritti dalla normativa nazionale e regionale per l’esercizio dell’attività turistico ricettiva.
@@ -13,8 +13,7 @@ Tax credit vacanze
 
 3. Il credito di cui al comma 1 è riconosciuto alle seguenti condizioni, prescritte a pena di decadenza:
 a) le spese debbono essere sostenute in un’unica soluzione in relazione ai servizi resi da una singola impresa turistico ricettiva, da un singolo agriturismo o da un singolo bed & breakfast;
-b) il totale del corrispettivo deve essere documentato da fattura elettronica o documento commerciale ai sensi dell’articolo 2 del decreto legislativo 5 agosto 2015,
-n. 127, nel quale è indicato il codice fiscale del soggetto che intende fruire del credito;
+b) il totale del corrispettivo deve essere documentato da fattura elettronica o documento commerciale ai sensi dell’articolo 2 del decreto legislativo 5 agosto 2015, n. 127, nel quale è indicato il codice fiscale del soggetto che intende fruire del credito;
 c) il pagamento del servizio deve essere corrisposto senza l’ausilio, l’intervento o l’intermediazione di soggetti che gestiscono piattaforme o portali telematici diversi da agenzie di viaggio e tour operator .
 
 4. Il credito di cui al comma 1 è fruibile esclusivamente nella misura dell’80 per cento, d’intesa con il fornitore presso il quale i servizi sono fruiti, sotto forma di sconto sul corrispettivo dovuto e per il 20 per cento in forma di detrazione di imposta in sede di dichiarazione dei redditi da parte dell’avente diritto.
